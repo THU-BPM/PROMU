@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 
 You also need to install [Horovod](https://github.com/horovod/horovod) and [Apex](https://github.com/NVIDIA/apex.git)
 ## Usage
-* Run the full model on SemEval dataset with default hyperparameter settings<br>
+* Run the full model on NewsCLIPpings dataset with default hyperparameter settings<br>
 
 ```sh run.sh```<br>
 
